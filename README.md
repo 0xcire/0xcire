@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xcire
-- 👀 I’m interested in react & vue with a bias towards vue.
+- 👀 I’m interested in Full Stack Web development.
 - 🌱 I’m currently relearning front end fundamentals.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
