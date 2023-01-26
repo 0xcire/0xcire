@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xcire
-- 👀 I’m interested in Full Stack Web development.
-- 🌱 I’m currently relearning front end fundamentals.
+- 👀 I am a Full Stack Web Developer.
+- 🌱 After a several year hiatus from coding, I am rebuilding some Odin Projects' to get back into the groove of programming. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
