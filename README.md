@@ -3,7 +3,8 @@
 - 🌱 I am currently learning MERN stack, TypeScript, and Astro!
 - 📖 Some of my learning resources ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  - Get in touch via my website.
 
 Profile photo by [catalyststuff](https://www.freepik.com/free-vector/cute-astronaut-floating-with-working-laptop-cartoon-vector-icon-illustration-science-technology_31348463.htm#query=coding%20astronaut&position=26&from_view=search&track=ais) on Freepik
 
