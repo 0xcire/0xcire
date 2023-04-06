@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @0xcire
 - 👀 I am a Full Stack Web Developer.
-- 🌱 I am currently learning MERN stack, TypeScript, and Astro!
-- 📖 Some of my learning resources ...
+- 🌱 I am currently learning MERN stack, TypeScript, Next JS, Astro, and MySQL!
+- 📖 Some of my learning resources:
+  - Stack Overflow, Documentation, and YouTube. No AI here, yet.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - Get in touch via my website.
