@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xcire
+- 👋 Hi, I’m Eric
 - 👀 I am a Full Stack Web Developer.
 - 🌱 I am currently learning MERN stack, TypeScript, Next JS, Astro, and MySQL!
 - 📖 Some of my learning resources:
