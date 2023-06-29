@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eric
 - 👀 I am a Full Stack Web Developer.
-- 🌱 I am currently learning MERN stack, TypeScript, Next JS, Astro, and MySQL!
+- 🌱 I am currently learning PERN stack (React, Node, Express, PostgreSQL), TypeScript, Next JS, Astro, and Docker!
 - 📖 Some of my learning resources:
-  - Stack Overflow, Documentation, and YouTube. No AI here, yet.
+  - Stack Overflow, Documentation, and YouTube.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - Get in touch via my website.
