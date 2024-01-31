@@ -7,9 +7,9 @@ Full Stack Developer
 Started out learning Frontend development. Overtime, though, my curiosity has lead me all the way to DevOps.
 
 *   🌍  I'm based in Boston
-*   🖥️  See my portfolio at [Portfolio](http://ecfolio.netlify.app)
-*   🚀  I'm currently working on [Propel](http://propel-crm.xyz)
-*   🧠  I'm learning AWS and testing fundamentals
+*   🖥️  See my [portfolio](https://ecfolio.netlify.app)
+*   🚀  I'm currently working on [Propel](https://propel-crm.xyz)
+*   🧠  I'm learning AWS and Full Stack Development
 *   🤝  I'm open to collaborating on anything I could add value to
 
 ### Skills 
