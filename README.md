@@ -69,6 +69,8 @@ Started out learning Frontend development. Overtime, though, my curiosity has le
 
 <div width="100%" align="center"><a href="https://github.com/0xcire/propel-CRM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=propel-CRM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<div>View my <a href="https://gist.github.com/0xcire">gists</a></div>
+
 Profile photo by [catalyststuff](https://www.freepik.com/free-vector/cute-astronaut-floating-with-working-laptop-cartoon-vector-icon-illustration-science-technology_31348463.htm#query=coding%20astronaut&position=26&from_view=search&track=ais) on Freepik
 
 <!---
