@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric
 ============================================================================================================================
 
-Full Stack Developer
+Software Engineer
 --------------------
 
 Started out learning Frontend development. Overtime, though, my curiosity has lead me all the way to DevOps.
