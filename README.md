@@ -8,9 +8,9 @@ Started out learning Frontend development. Overtime, though, my curiosity has le
 
 *   🌍  I'm based in Boston
 *   🖥️  See my [portfolio](https://ecfolio.netlify.app)
-*   🚀  I'm currently working on [Propel](https://propel-crm.xyz)
-*   🧠  I'm learning AWS and Full Stack Development
-*   🤝  I'm open to collaborating on anything I could add value to
+*   🚀  I'm currently working on [Suru](https://github.com/0xcire/suru) and finishing up refactoring [Propel](https://propel-crm.xyz)
+*   🧠  I'm learning Go
+*   📖  I'm currently reading [T-SQL](https://itziktsql.com/t-sql-fund-4th-edition-1)
 
 ### Skills 
 <p align="left">
@@ -62,8 +62,6 @@ Started out learning Frontend development. Overtime, though, my curiosity has le
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/0xcire" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ericchi1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Some Books That Have Shaped Me
 
 ### Badges
 
