@@ -73,6 +73,14 @@ Started out learning Frontend development. Overtime, though, my curiosity has le
       alt="Express"
     />
   </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" 
+      width="36" 
+      height="36" 
+      alt="NestJS" 
+    />
+  </a>
 </p>
 
 <p align="left">
@@ -116,6 +124,7 @@ Started out learning Frontend development. Overtime, though, my curiosity has le
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
