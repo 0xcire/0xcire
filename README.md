@@ -8,7 +8,7 @@ Started out in the browser with `index.html`. Nowadays I spend most of my time i
 
 *   🌍  I'm based in Boston
 *   🖥️  See my [portfolio](https://ecfolio.netlify.app)
-*   🚀  I'm currently working on [Suru](https://github.com/0xcire/suru) and finishing up refactoring [Propel](https://propel-crm.xyz)
+*   🚀  I'm currently working on [Sym](https://github.com/0xcire/sym-backend) and finishing up refactoring [Propel](https://propel-crm.xyz)
 *   🧠  I'm learning Go
 *   📖  I'm currently reading [T-SQL](https://itziktsql.com/t-sql-fund-4th-edition-1)
 
