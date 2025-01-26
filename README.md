@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 --------------------
 
-Started out learning Frontend development. Overtime, though, my curiosity has lead me all the way to DevOps.
+Started out in the browser with `index.html`. Nowadays I spend most of my time in the server
 
 *   🌍  I'm based in Boston
 *   🖥️  See my [portfolio](https://ecfolio.netlify.app)
