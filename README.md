@@ -153,8 +153,6 @@ Started out in the browser with `index.html`. Nowadays I spend most of my time i
 
 <div>View my <a href="https://gist.github.com/0xcire">gists</a></div>
 
-Profile photo by [catalyststuff](https://www.freepik.com/free-vector/cute-astronaut-floating-with-working-laptop-cartoon-vector-icon-illustration-science-technology_31348463.htm#query=coding%20astronaut&position=26&from_view=search&track=ais) on Freepik
-
 <!---
 0xcire/0xcire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
