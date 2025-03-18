@@ -8,7 +8,7 @@ Started out in the browser with `index.html`. Nowadays I spend most of my time i
 
 *   🌍  I'm based in Boston
 *   🖥️  See my [portfolio](https://ecfolio.netlify.app)
-*   🚀  I'm currently working on [Sym](https://github.com/0xcire/sym-backend) and finishing up refactoring [Propel](https://propel-crm.xyz)
+*   🚀  I'm currently working on [Sym](https://github.com/0xcire/sym-backend)
 *   🧠  I'm learning Go
 *   📖  I'm currently reading [T-SQL](https://itziktsql.com/t-sql-fund-4th-edition-1)
 
@@ -146,7 +146,8 @@ Started out in the browser with `index.html`. Nowadays I spend most of my time i
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/0xcire/propel-CRM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=propel-CRM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/0xcire/propel-CRM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=propel-CRM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
+<div width="100%" align="center"><a href="https://github.com/0xcire/sym-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=sym-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div>View my <a href="https://gist.github.com/0xcire">gists</a></div>
 
