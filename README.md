@@ -9,6 +9,7 @@ Primarily enjoy/work with TypeScript, Go, SQL, and AWS.
 *   🌍  I'm based in Boston
 *   🖥️  See my [portfolio](https://ecfolio.netlify.app)
 *   🚀  I'm currently working on [Koshi](https://github.com/0xcire/koshi-backend)
+  *  Pinned repositories are all WIP or to-be-started
 *   🧠  I'm learning Go
 *   📖  I'm currently reading [T-SQL](https://itziktsql.com/t-sql-fund-4th-edition-1)
 
