@@ -16,6 +16,8 @@ Primarily enjoy/work with TypeScript, Go, SQL, and AWS.
 <b>Top Repositories</b>
 <div>
   <div width="100%" align="center"><a href="https://github.com/0xcire/koshi-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=koshi-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+ <div width="100%" align="center"><a href="https://github.com/0xcire/cire-apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcire&repo=cire-apps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
